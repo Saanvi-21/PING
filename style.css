@@ -1,0 +1,29 @@
+.header_div{
+    width: 100%;
+    text-align: left;
+}
+.header_div h2{
+    display: inline;
+}
+.header_div button{
+    float: right;
+    font-size: 18px;
+}
+.start{
+    font-size: 17px;
+}
+#status{
+    font-size: 17px;
+}
+body{
+    background: url("https://cdnb.artstation.com/p/assets/images/images/015/369/747/original/bogdan-mb0sco-arcade-animate.gif?1548087117");
+    background-size: cover;
+    background-position: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.footer{
+    color: white;
+    bottom: 0;
+    border: white solid 0.5px;
+    border-radius: 1px;
+}
